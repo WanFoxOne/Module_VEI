@@ -8,6 +8,8 @@ Découverte des notions de veille et des outils
 
 ### Cours
 
+*** / Aucun cours pour l'instant
+
 ### Auteur(s)
 
 * **CORLER Damien**
