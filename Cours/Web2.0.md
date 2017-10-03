@@ -85,17 +85,12 @@ Une grosse partie de l’activité sur les réseaux sociaux comme Facebook ou su
 
 **Une double dimension**
 
-Un outil de travail collectif :  « Social bookmarking »
-
-Diffuser, recommander et partager ses signets
-
-Découvrir et suivre les ressources mémorisées par les autres, identifier et suivre des leaders de veille / Syndication
-
-Constituer des groupes et effectuer une veille collaborative
-
-Capitaliser et créer des « réseaux de confiance », des communautés expertes : signalement multiple d’une ressource web
-
-Fournir un service et le rendre visible
+* Un outil de travail collectif :  « Social bookmarking »
+* Diffuser, recommander et partager ses signets
+* Découvrir et suivre les ressources mémorisées par les autres, identifier et suivre des leaders de veille / Syndication
+* Constituer des groupes et effectuer une veille collaborative
+* Capitaliser et créer des « réseaux de confiance », des communautés expertes : signalement multiple d’une ressource web
+* Fournir un service et le rendre visible
 
 **Intérêts :**
 
