@@ -1,9 +1,9 @@
 # Organiser une veille informationnelle
 
 Veille informationnelle : 2 définitions 
---> Ensemble des stratégies mise en place pour rester informé , en y consacrant le moins de temps possible en utilisant des processus des signalement automatisés			 Jean-Pierre Lardy - Urfist (2007)
+> Ensemble des stratégies mise en place pour rester informé , en y consacrant le moins de temps possible en utilisant des processus des signalement automatisés			 Jean-Pierre Lardy - Urfist (2007)
 
---> Activité continue en grande partie itérative visant à une surveillance active de l'environnement technologique, commercial...pour anticiper les évolution
+> Activité continue en grande partie itérative visant à une surveillance active de l'environnement technologique, commercial...pour anticiper les évolution
  AFNOR (1998)
  
 ### Différentes méthodes de veille , collectes d'informations :
