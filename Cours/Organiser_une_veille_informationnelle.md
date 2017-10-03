@@ -1,16 +1,18 @@
-Organiser une veille informationnelle
+# Organiser une veille informationnelle
 
 Veille informationnelle : 2 définitions 
 --> Ensemble des stratégies mise en place pour rester informé , en y consacrant le moins de temps possible en utilisant des processus des signalement automatisés			 Jean-Pierre Lardy - Urfist (2007)
 
 --> Activité continue en grande partie itérative visant à une surveillance active de l'environnement technologique, commercial...pour anticiper les évolution
  AFNOR (1998)
-Différentes méthodes de veille , collectes d'informations :
+ 
+### Différentes méthodes de veille , collectes d'informations :
 -Alerte par email
 -Abonnement à des lettres d'information et des newsletters
 -Microblogage
 -Agrégation de flux d'actualités
-On peut aussi ajouter  : 
+
+### On peut aussi ajouter  : 
 -Travail sur un sujet spécifique
 -Une ou plusieurs sources
 -Activités de surveillance
@@ -20,13 +22,13 @@ On peut aussi ajouter  :
 
 Vérifier les sources 
 
-Les outils de veille :
+### Les outils de veille :
 Outils de collecte : Flux RSS, alertes, newsletters, logiciel de veille
 Outils de stockage : Gestionnaire de signets, stockage d'information
 Outils de diffusion : Blogs, réseaux sociaux, e-mail, outils de curation 
 Aide mémoire et questions à se poser
 
-Quel type de veille vais-je pratiquer ?
+** Quel type de veille vais-je pratiquer ? **
 Il existe de nombreuses listes de veille : concurrentielle, sociétale,financière, juridique...
 Quel est vraiment mon but ?
 A quoi vous servira l'information que vous retiendrez: à préciser votre projet ? A innover ? Quelles sont les priorités, quels sont les facteurs décisifs sur lesquels vous devez être absolument informés
