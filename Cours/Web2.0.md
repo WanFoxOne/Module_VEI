@@ -105,3 +105,13 @@ Une grosse partie de l’activité sur les réseaux sociaux comme Facebook ou su
 * Complémentarité par rapport aux moteurs de recherche
 * Outils de veilleurs
 * Veille collaborative
+
+### Bref panorama des outils
+
+* https://www.pearltrees.com/
+* https://www.blinkist.com/
+* https://www.instapaper.com/
+* https://www.diigo.com/
+* http://blogmarks.net
+* http://www.scoop.it/
+* https://paper.li/
