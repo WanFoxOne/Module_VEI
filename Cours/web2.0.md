@@ -21,7 +21,7 @@ La diffusion de documents
 La création des réseaux interactifs : se mettre en réseau pour créer un groupe de travail ou partager des centres d’intérêt
 La participation : donner son opinion, faire partager son savoir
 
-**Les nouveautés sont les suivantes**
+**Les nouveautés sont les suivantes :**
 
 Le tout en ligne apparition du cloud computing (informatique dans les nuages). Les logiciels sont délocalisés sur d’énormes serveurs distants et accessibles via le net.
 De nouvelles technologies plus conviviales et plus interactives (AJAX, des systèmes de publication faciles à utiliser (CMS, plateformes de blog…). Ces technologies permettent à l’utilisateur de produire lui-même des contenus. Apothéose avec l’avènement des réseaux sociaux Facebook, Twitter…)
@@ -32,13 +32,34 @@ Les mash-up : de nombreux sites utilisent Google Maps pour géolocaliser les li
  
 Le web social permet à toutes les personnes de contribuer au développement de l’internet au niveaux :
 
-Informationnel par la création de contenus
-Des technologies par hybridation technologique
-Usages créatifs sur les réseaux sociaux entre autre.
+* Informationnel par la création de contenus
+* Des technologies par hybridation technologique
+* Usages créatifs sur les réseaux sociaux entre autre.
 
 ### Pratiques et usages fondés sur des outils
 
-Utilisateur et producteur de contenus : Blogs, wikis et réseaux
-Encourager la production de contenus vers l’extérieur
-Susciter la production d’avis et de remarques
-Emergence d’une « intelligence collective » : capitalisation des compétences individuelles
+* Utilisateur et producteur de contenus : Blogs, wikis et réseaux
+* Encourager la production de contenus vers l’extérieur
+* Susciter la production d’avis et de remarques
+* Emergence d’une « intelligence collective » : capitalisation des compétences individuelles
+
+### Un principe fondateur : le partage
+
+Présent depuis 2004
+Dans une entreprise :
+
+* Le partage de documents bureautique évite les problèmes de :
+* Synchronisation
+* Multiplication des versions
+* Partage de favoris et ressources métiers
+* Partage de référence bibliographiques
+* Partage des résultats de veille par des experts métiers
+
+### D’un point de vue technique, un minimum de fonctionnalités
+
+Ajout de commentaires et posssiblités d’annotation de contenus
+
+Trois niveaux d’utilisateur :
+* Administrateur
+* Contributeur
+* Lecteur
