@@ -1,15 +1,16 @@
 # Web 2.0 
-Quelques Définitions
 
-Le web 1.0, dont l’activité principale est « se connecter à », avec des moteurs de recherche « classiques » comme Google, Yahoo,etc., dont les buts sont de permettre une recherche et un accès à l’information (information tirée, pulled), à la demande.
+### Quelques Définitions
 
-
-Le web 2.0, dont l’activité principale est « se connecter au travers » et dont les buts des utilisateurs sont de partager, participer, collaborer, au travers de sites comme Facebook, Youtube, Delicious ou Wikipedia. Ici, l’information est principalement poussée (pushed), mise à jour sans requête explicite, à des groupes préalablement formés et des sites préalable sélectionnés comme étant d’intérêt.
+> Le web 1.0, dont l’activité principale est « se connecter à », avec des moteurs de recherche « classiques » comme Google, Yahoo,etc., dont les buts sont de permettre une recherche et un accès à l’information (information tirée, pulled), à la demande.
 
 
-Le web 3.0 utilise la métaphore de « se connecter dans », via des environnements plus immersifs et/ou sémantiques (Second Life, Evri), l’information est disponible sous forme très structurée (analyse sémantique préalable) et le plus authentique possible (immersion)
+> Le web 2.0, dont l’activité principale est « se connecter au travers » et dont les buts des utilisateurs sont de partager, participer, collaborer, au travers de sites comme Facebook, Youtube, Delicious ou Wikipedia. Ici, l’information est principalement poussée (pushed), mise à jour sans requête explicite, à des groupes préalablement formés et des sites préalable sélectionnés comme étant d’intérêt.
 
-Le Web 2.0 : Place l’internaute au coeur de la création de contenus web. Des outils et des services en ligne gratuits et faciles à utiliser
+
+> Le web 3.0 utilise la métaphore de « se connecter dans », via des environnements plus immersifs et/ou sémantiques (Second Life, Evri), l’information est disponible sous forme très structurée (analyse sémantique préalable) et le plus authentique possible (immersion)
+
+### Le Web 2.0 : Place l’internaute au coeur de la création de contenus web. Des outils et des services en ligne gratuits et faciles à utiliser
 
 
 Ces outils et ces services permettent :
