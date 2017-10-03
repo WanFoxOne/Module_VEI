@@ -31,22 +31,29 @@ Aide mémoire et questions à se poser
 **Quel type de veille vais-je pratiquer ?**
 
 Il existe de nombreuses listes de veille : concurrentielle, sociétale,financière, juridique...
-Quel est vraiment mon but ?
+
+**Quel est vraiment mon but ?**
+
 A quoi vous servira l'information que vous retiendrez: à préciser votre projet ? A innover ? Quelles sont les priorités, quels sont les facteurs décisifs sur lesquels vous devez être absolument informés
-Quelles limites à la veille ?
+
+**Quelles limites à la veille ?**
+
 On ne peut prétendre à l'exhaustivités. Jusqu'ou remonter dans le temps pour comprendre l'évolution de la situation ? Veille à court terme ou à moyen terme ? Niveau d'information, technique, juridique environnement dont on a besoin.
 
-Que sais-je déjà ? Que puis-je apprendre facilement ?
+**Que sais-je déjà ? Que puis-je apprendre facilement ?**
+
 Commencer par faire un bilan de ses atouts et des sources de renseignements qui pourront faire gagner du temps, préciser des domaines de recherche, des sources fiables, des mots clés. Quels professionnels pourraient m'aider ?
 Quels mots ? Quels concepts ? Corollaire : quelles notions, quelle terminologie, quels noms faut-il distinguer de l'objet de ma recherche ?
 
-Quels outils utiliser ?
+**Quels outils utiliser ?**
+
 L'information sur les outils de veille, notamment les logiciels est facile à trouver.Quel moteur de recherche puis-je mobiliser utilement ? Tapez outils de veille sur n'importe quel moteur de recherche. Agrégateurs, RSS, abonnements.
 
 UFC Que choisir
 60 millions de consommateurs
 
-Quelle méthode ?
+**Quelle méthode ?**
+
 Maîtriser les bases de la recherche dite "avancée"
 Moteur de recherche tels que GOOGLE et EXALEAD afin de préciser la recherche. Souvent Google suffit pour des recherches peu pointues ou sophistiquées.Google offre souvent lz possibilité d'une démarche plus fine.
 
