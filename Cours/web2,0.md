@@ -13,7 +13,7 @@
 ### Le Web 2.0 : Place l’internaute au coeur de la création de contenus web. Des outils et des services en ligne gratuits et faciles à utiliser
 
 
-Ces outils et ces services permettent :
+**Ces outils et ces services permettent :**
 
 Le stockage de données
 La création de pages web
@@ -21,7 +21,7 @@ La diffusion de documents
 La création des réseaux interactifs : se mettre en réseau pour créer un groupe de travail ou partager des centres d’intérêt
 La participation : donner son opinion, faire partager son savoir
 
-Les nouveautés sont les suivantes
+**Les nouveautés sont les suivantes**
 
 Le tout en ligne apparition du cloud computing (informatique dans les nuages). Les logiciels sont délocalisés sur d’énormes serveurs distants et accessibles via le net.
 De nouvelles technologies plus conviviales et plus interactives (AJAX, des systèmes de publication faciles à utiliser (CMS, plateformes de blog…). Ces technologies permettent à l’utilisateur de produire lui-même des contenus. Apothéose avec l’avènement des réseaux sociaux Facebook, Twitter…)
@@ -36,7 +36,7 @@ Informationnel par la création de contenus
 Des technologies par hybridation technologique
 Usages créatifs sur les réseaux sociaux entre autre.
 
-Pratiques et usages fondés sur des outils
+### Pratiques et usages fondés sur des outils
 
 Utilisateur et producteur de contenus : Blogs, wikis et réseaux
 Encourager la production de contenus vers l’extérieur
