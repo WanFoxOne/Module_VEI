@@ -1,4 +1,4 @@
-Méthode de recherche de l’information
+# Méthode de recherche de l’information
 
 1. Méthode Pull (approche classique) : le veilleur va « tirer » les informations à lui.
 
@@ -13,7 +13,7 @@ L’information est « poussée » de manière automatique vers l’utilisateu
 
 →Inconvénients : Certains outils de recherche n’offrent pas encore ces possibilités de veille/risque de se faire submerger de mails (liste de discussion) et de spams si la stratégie de recherche transformée en alerte n’est pas assez précise.
 
-Outils de collecte de l’information Push
+### Outils de collecte de l’information Push
 
 →Fils/Flux RSS : il s’agit d’un flux d’information qui fonctionne par abonnement au service qui s’agrège directement dans l’agrégateur choisi.
 
@@ -28,7 +28,7 @@ Exemple : Netvibes, News RSS
 
 →Autres moyens : newsletter, liste de diffusion.
 
-Les newsletters
+### Les newsletters
 
 Agent de push relativement efficae
 Listes de diffusion gratuite souvent
@@ -38,10 +38,7 @@ Envoyée quelle que soit l’information
 Utilisation d’un courriel anonyme recommandée
 
 
-
-
-
-Les moteurs de recherche
+### Les moteurs de recherche
 
 →Le principe : un moteur de recherche est un site web dont la principale fonctionnalité est la recherche de ressources par mots-clés.
 Il explore régulièrement la toile à l’aide de robots qui parcourent les sites de manière automatique et suivent tous les liens rencontrés.
@@ -54,7 +51,7 @@ Les annuaires
 
 →A noter : la mise à jour de l’annuaire est faite par des personnes, un annuaire recense moins de pages qu’un moteur de recherche automatisé mais elles sont théoriquement plus pertinentes. 
 
-Diffusion de la veille
+### Diffusion de la veille
 
 Communication interne, dans une entreprise ou une organisation :
 Supports papier (journaux d’entreprise, rapport, etc.)
