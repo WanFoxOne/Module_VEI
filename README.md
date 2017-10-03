@@ -8,8 +8,9 @@ Découverte des notions de veille et des outils
 
 ### Cours
 
-*** / Aucun cours pour l'instant
+* [**Les variables** - *19/09/17*](Cours/Les_Annuaires.md)
 
 ### Auteur(s)
 
 * **CORLER Damien**
+* **ADAM Jason**
