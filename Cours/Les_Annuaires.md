@@ -1,4 +1,4 @@
-Les annuaires
+# Les annuaires
 
 Logique de site : un site par nom de domaine et pas plusieurs pages
 Classifications des sites 
@@ -11,13 +11,13 @@ Voir exemple : www.dmoz.fr
 Par des responsables / éditeurs de rubriques
 Vérification de l’adéquation entre la catégorie et le contenu
 
-Recherche dans un annuaire 
+### Recherche dans un annuaire 
 
 Une recherche par surf à l’intérieur des catégories
 Recherche par mots clés souvent peu pertinente / trop partielle
 Nécessite une bonne connaissance de l’annuaire et de ses rubriques
 
-Avantages / Inconvénients
+### Avantages / Inconvénients
 
 Cohérence entre rubrique et site
 Tri sélectif : qualité préférée à la quantité
@@ -33,7 +33,7 @@ Développement d’une technologie de moteurs de recherche propre (avant Google)
 
 archeophile.com (annuaire dédié)
 
-Quelles sources pour quelle utilisation ?
+### Quelles sources pour quelle utilisation ?
 
 Informations sur une entreprise 
 	Gratuits : societe.com , europages , indexa
@@ -55,7 +55,7 @@ Prix faible 60 euros environ
 Posibilité d’installer ses propres moteurs de recherche ( recherche internet à un site )
 Peu ergonomique
 
-Agent Online/Offline
+### Agent Online/Offline
 
 Métamoteur en ligne sur un site web
 Obligation d’être connecté même après une requête
@@ -68,7 +68,7 @@ Possibilité de stockage et d’archivage des différents résultats, d’export
 Avoir les droits d’installation
 Souvent payant 		
 
-Agent de veille Offline
+### Agent de veille Offline
 
 Installation d’un logiciel sur le poste utilisateur
 Paramétrage de fonctionnalités de push (alerte par mail, smtp, etc.)
@@ -89,7 +89,7 @@ Alerte si mot clé, pas d’alerte si mot clé, planification de veille, gestion
 →C4U outils froids
 
 
-Gestion des bookmarks
+### Gestion des bookmarks
 
 Objectif basique
 Retrouver une information, une société, un service, un produit
@@ -102,7 +102,7 @@ Importer / Exporter
 Surveillance de favoris
 Catégorisation automatique
 
-Aspirateur de sites
+### Aspirateur de sites
 
 Permettre la consultation d’un site en mobilité
 Trie les ressources (pages, doc PDF, mail…)
@@ -122,7 +122,7 @@ Possibilité de mise à jour de la requête
 Certains proposent une mise en évidence des changements
 http://www.wysigot.com 
 
-Outils de vérification de liens 
+### Outils de vérification de liens 
 
 Permet de s’assurer de la validité des liens
 Sur des bookmarks
