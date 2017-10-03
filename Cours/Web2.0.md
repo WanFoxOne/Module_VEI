@@ -80,3 +80,33 @@ Les signets partagés / social bookmark : outils de mémorisation, moyen très 
 * Twitter iG
 
 Une grosse partie de l’activité sur les réseaux sociaux comme Facebook ou sur les sites de micro-blogging comme Twitter consiste en la communication de trouvailles faites sur Internet, une façon de faire rebondir sa veille en quelque sorte.
+
+### Les plateformes de partage et outils
+
+**Une double dimension**
+
+Un outil de travail collectif :  « Social bookmarking »
+
+Diffuser, recommander et partager ses signets
+
+Découvrir et suivre les ressources mémorisées par les autres, identifier et suivre des leaders de veille / Syndication
+
+Constituer des groupes et effectuer une veille collaborative
+
+Capitaliser et créer des « réseaux de confiance », des communautés expertes : signalement multiple d’une ressource web
+
+Fournir un service et le rendre visible
+
+**Intérêts :**
+
+* Nomadisme
+* Simplicité
+* Plus-value documentaire
+* Partage, capitalisation et collaboration
+
+**Enrichissement de la recherche d’informations :**
+
+* « pairs de confiance » (personne avec qui on collabore au même niveau de connaissance et de statut, inverse des experts)
+* Complémentarité par rapport aux moteurs de recherche
+* Outils de veilleurs
+* Veille collaborative
