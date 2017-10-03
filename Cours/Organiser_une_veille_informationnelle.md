@@ -28,7 +28,7 @@ Outils de stockage : Gestionnaire de signets, stockage d'information
 Outils de diffusion : Blogs, réseaux sociaux, e-mail, outils de curation 
 Aide mémoire et questions à se poser
 
-** Quel type de veille vais-je pratiquer ?
+*** Quel type de veille vais-je pratiquer ? ***
 
 Il existe de nombreuses listes de veille : concurrentielle, sociétale,financière, juridique...
 Quel est vraiment mon but ?
