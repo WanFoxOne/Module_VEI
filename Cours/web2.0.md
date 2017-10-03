@@ -63,3 +63,20 @@ Trois niveaux d’utilisateur :
 * Administrateur
 * Contributeur
 * Lecteur
+
+Système d’alerte ou diffusion sélective en fonction du profil de l’utilisateur
+Personnalisation des contours et possibilités d’édition à plusieurs
+
+### La méta-veille
+
+Les signets partagés / social bookmark : outils de mémorisation, moyen très efficace d’intégrer dans sa veille celle d’autres veilleurs qui partagent certains objectifs de veille. DELICIOUS : outils de mémorisation partagée.
+
+### Choix du bookmark social
+
+* Page Free Bookmark Managers : liste une quarantaine de logiciels et utilitaires dédiés au partagent
+* Blog Robin Good : sélection de bookmark sociaux
+* Le micro-blogging et les réseaux sociaux
+* TweetDeck
+* Twitter iG
+
+Une grosse partie de l’activité sur les réseaux sociaux comme Facebook ou sur les sites de micro-blogging comme Twitter consiste en la communication de trouvailles faites sur Internet, une façon de faire rebondir sa veille en quelque sorte.
